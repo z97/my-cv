@@ -7,7 +7,7 @@ export default function Page() {
         Artem Klibaner
       </h1>
       <p className="mb-4">
-        {`I can develop a website that will attract you more clients. I have extensive experience in SEO optimization and marketing.`}
+        {`I can develop a website that will attract you more clients. I have extensive experience in SEO optimization and marketing. My projects:`}
       </p>
       <div className="my-8">
         <BlogPosts />
