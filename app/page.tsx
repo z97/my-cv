@@ -4,10 +4,10 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Artem Klibaner
+        Vod.qa
       </h1>
       <p className="mb-4">
-        {`I can develop a website that will attract you more clients. I have extensive experience in SEO optimization and marketing. My projects:`}
+        {`Hi, my name is Artem Klibaner. I can develop a website that will attract you more clients. I have extensive experience in SEO optimization and marketing. My projects:`}
       </p>
       <div className="my-8">
         <BlogPosts />
