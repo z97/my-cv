@@ -7,7 +7,7 @@ export default function Page() {
         Vod.qa
       </h1>
       <p className="mb-4">
-        {`Hi, my name is Artem Klibaner. I can develop a website that will attract you more clients. I have extensive experience in SEO optimization and marketing. My projects:`}
+        {`Hi, my name is Artem Klibaner. I can develop a website that will attract you more clients. I have extensive experience in product management, customer development and marketing. My projects:`}
       </p>
       <div className="my-8">
         <BlogPosts />
