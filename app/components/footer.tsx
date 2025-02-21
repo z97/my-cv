@@ -21,7 +21,7 @@ export default function Footer() {
       <p className="mt-8 font-normal">
       Contact me:
       </p>
-      <ul className="font-sm mt-8 flex flex-col space-x-0 space-y-2 font-normal md:flex-row md:space-x-4 md:space-y-0">
+      <ul className="font-sm flex flex-col space-x-0 space-y-2 font-normal md:flex-row md:space-x-4 md:space-y-0">
         <li>
           <a
             className="flex items-center transition-all hover:font-bold"
