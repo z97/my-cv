@@ -21,10 +21,10 @@ export default function Footer() {
       <p className="mt-8 font-normal">
       Contact me:
       </p>
-      <ul className="font-sm mt-8 flex flex-col space-x-0 space-y-2 text-neutral-600 md:flex-row md:space-x-4 md:space-y-0 dark:text-neutral-300">
+      <ul className="font-sm mt-8 flex flex-col space-x-0 space-y-2 font-normal md:flex-row md:space-x-4 md:space-y-0">
         <li>
           <a
-            className="flex items-center transition-all hover:font-normal dark:hover:font-bold"
+            className="flex items-center transition-all hover:font-bold"
             rel="noopener noreferrer"
             target="_blank"
             href="https://wa.me/972559226888"
@@ -35,7 +35,7 @@ export default function Footer() {
         </li>
         <li>
           <a
-            className="flex items-center transition-all hover:font-normal dark:hover:font-bold"
+            className="flex items-center transition-all hover:font-bold"
             rel="noopener noreferrer"
             target="_blank"
             href="https://www.instagram.com/artem.klibaner/"
