@@ -45,7 +45,7 @@ export default function Footer() {
           </a>
         </li>
       </ul>
-      <p className="font-normal">
+      <p className="mt-8 font-normal">
         {new Date().getFullYear()} ArtemPM.com
       </p>
     </footer>
