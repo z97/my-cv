@@ -21,11 +21,11 @@ export function BlogPosts() {
             className="flex flex-col space-y-1 mb-5"
             href={`/blog/${post.slug}`}
           >
-            <div className="w-full flex flex-col space-x-0 md:space-x-2">
-              <p className="text-bold-600 dark:text-neutral-400">
+            <div className="w-full flex flex-col space-x-0">
+              <p className="text-neutral-900 dark:text-neutral-400 tracking-tight">
                 {post.metadata.title}
               </p>
-              <p className="text-neutral-900 dark:text-neutral-100 tracking-tight">
+              <p className="text-neutral-400 dark:text-neutral-100 tracking-tight">
                 {post.metadata.summary}
               </p>
             </div>
