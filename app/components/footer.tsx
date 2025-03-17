@@ -55,6 +55,17 @@ export default function Footer() {
             <p className="ml-2 h-7">Twitter</p>
           </a>
         </li>
+        <li>
+          <a
+            className="flex items-center transition-all hover:font-bold"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="www.linkedin.com/in/artempm"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">LinkedIn</p>
+          </a>
+        </li>
       </ul>
       <p className="mt-8 font-normal">
         {new Date().getFullYear()} ArtemPM.com
