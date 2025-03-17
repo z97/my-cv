@@ -44,6 +44,17 @@ export default function Footer() {
             <p className="ml-2 h-7">Instagram DM</p>
           </a>
         </li>
+        <li>
+          <a
+            className="flex items-center transition-all hover:font-bold"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://x.com/artem_pm"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">Twitter</p>
+          </a>
+        </li>
       </ul>
       <p className="mt-8 font-normal">
         {new Date().getFullYear()} ArtemPM.com
