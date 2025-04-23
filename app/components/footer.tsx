@@ -49,7 +49,7 @@ export default function Footer() {
             className="flex items-center transition-all hover:font-bold"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://x.com/artem_pm"
+            href="https://x.com/artem_pm/"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">Twitter</p>
@@ -60,7 +60,7 @@ export default function Footer() {
             className="flex items-center transition-all hover:font-bold"
             rel="noopener noreferrer"
             target="_blank"
-            href="www.linkedin.com/in/artempm"
+            href="https://linkedin.com/in/artempm/"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">LinkedIn</p>
